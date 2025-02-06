@@ -8,3 +8,4 @@ https://foxwings-kat.github.io/mygo-images-searcher/index.html
 ### Cloudflare Pages
 [MyGO!!!!! 台詞搜尋](https://mygo-searcher.pages.dev/)
 [Ave Mujica 台詞搜尋](https://ave-mujica-searcher.pages.dev/)
+![image](src/assets/preview.gif)
